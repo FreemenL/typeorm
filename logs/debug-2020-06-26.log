@@ -1,0 +1,107 @@
+2020-06-26 19:38:11 info: [app] Server started at http://127.0.0.1:6060
+2020-06-26 19:38:42 info: [app] Server started at http://127.0.0.1:6060
+2020-06-26 20:02:08 info: [app] Server started at http://127.0.0.1:6060
+2020-06-26 20:02:27 info: [app] Server started at http://127.0.0.1:6060
+2020-06-26 20:24:17 info: [app] Server started at http://127.0.0.1:6060
+2020-06-26 20:28:53 info: [app] Server started at http://localhost:3000
+2020-06-26 20:30:02 info: [app] Server started at http://localhost:3000
+2020-06-26 20:31:38 error: [app] Error: ER_BAD_DB_ERROR: Unknown database 'typeormtest'
+2020-06-26 20:31:46 info: [app] Server started at http://localhost:3000
+2020-06-26 20:37:45 info: [app] Server started at http://localhost:3000
+2020-06-26 20:38:18 info: [app] Server started at http://localhost:3000
+2020-06-26 20:38:21 info: [app] Server started at http://localhost:3000
+2020-06-26 20:38:33 info: [app] Server started at http://localhost:3000
+2020-06-26 20:39:07 info: [app] Server started at http://localhost:3000
+2020-06-26 20:45:36 info: [app] Server started at http://localhost:3000
+2020-06-26 20:49:35 info: [app] Server started at http://localhost:3000
+2020-06-26 20:50:55 info: [app] Server started at http://localhost:3000
+2020-06-26 20:55:58 info: [app] Server started at http://localhost:3000
+2020-06-26 21:01:38 info: [app] Server started at http://localhost:3000
+2020-06-26 21:03:47 info: [app] Server started at http://localhost:3000
+2020-06-26 21:05:23 info: [app] Server started at http://localhost:3000
+2020-06-26 21:05:25 info: [app] Server started at http://localhost:3000
+2020-06-26 21:07:17 error: [app] QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'
+2020-06-26 21:07:23 error: [app] QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'
+2020-06-26 21:07:34 info: [app] Server started at http://localhost:3000
+2020-06-26 21:08:01 error: [app] QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'
+2020-06-26 21:11:15 info: [app] Server started at http://localhost:3000
+2020-06-26 21:12:03 info: [app] Server started at http://localhost:3000
+2020-06-26 21:12:10 info: [app] Server started at http://localhost:3000
+2020-06-26 21:20:02 info: [app] Server started at http://localhost:3000
+2020-06-26 21:21:55 info: [app] Server started at http://localhost:3000
+2020-06-26 21:24:51 info: [app] Server started at http://localhost:3000
+2020-06-26 21:26:14 info: [app] Server started at http://localhost:3000
+2020-06-26 21:26:38 info: [app] Server started at http://localhost:3000
+2020-06-26 21:27:45 info: [app] Server started at http://localhost:3000
+2020-06-26 21:28:22 info: [app] Server started at http://localhost:3000
+2020-06-26 21:33:25 info: [app] Server started at http://localhost:3000
+2020-06-26 21:37:30 info: [app] Server started at http://localhost:3000
+2020-06-26 21:44:19 info: [app] Server started at http://localhost:3000
+2020-06-26 21:48:25 info: [app] Server started at http://localhost:3000
+2020-06-26 21:50:05 error: [app] QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'
+2020-06-26 21:50:13 error: [app] QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'
+2020-06-26 21:50:27 error: [app] QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'
+2020-06-26 21:51:46 error: [app] QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'
+2020-06-26 21:51:53 error: [app] QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'
+2020-06-26 21:52:32 error: [app] QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'
+2020-06-26 21:53:29 info: [app] Server started at http://localhost:3000
+2020-06-26 21:53:49 info: [app] Server started at http://localhost:3000
+2020-06-26 21:54:04 info: [app] Server started at http://localhost:3000
+2020-06-26 21:57:27 info: [app] Server started at http://localhost:3000
+2020-06-26 21:58:33 info: [app] Server started at http://localhost:3000
+2020-06-26 21:59:11 info: [app] Server started at http://localhost:3000
+2020-06-26 22:02:00 info: [app] Server started at http://localhost:3000
+2020-06-26 22:04:15 info: [app] Server started at http://localhost:3000
+2020-06-26 22:05:18 info: [app] Server started at http://localhost:3000
+2020-06-26 22:08:12 info: [app] Server started at http://localhost:3000
+2020-06-26 22:08:46 info: [app] Server started at http://localhost:3000
+2020-06-26 22:09:06 info: [app] Server started at http://localhost:3000
+2020-06-26 22:09:11 info: [app] Server started at http://localhost:3000
+2020-06-26 22:09:33 info: [app] Server started at http://localhost:3000
+2020-06-27 00:12:37 info: [app] Server started at http://localhost:3000
+2020-06-27 00:13:33 info: [app] Server started at http://localhost:3000
+2020-06-27 00:24:24 info: [app] Server started at http://localhost:3000
+2020-06-27 00:25:00 info: [app] Server started at http://localhost:3000
+2020-06-27 00:27:29 info: [app] Server started at http://localhost:3000
+2020-06-27 00:28:13 info: [app] Server started at http://localhost:3000
+2020-06-27 00:28:15 info: [app] Server started at http://localhost:3000
+2020-06-27 00:32:01 info: [app] Server started at http://localhost:3000
+2020-06-27 00:33:20 info: [app] Server started at http://localhost:3000
+2020-06-27 00:34:16 info: [app] Server started at http://localhost:3000
+2020-06-27 00:36:40 info: [app] Server started at http://localhost:3000
+2020-06-27 00:38:00 info: [app] Server started at http://localhost:3000
+2020-06-27 00:39:16 info: [app] Server started at http://localhost:3000
+2020-06-27 00:39:22 info: [app] Server started at http://localhost:3000
+2020-06-27 00:39:58 info: [app] Server started at http://localhost:3000
+2020-06-27 00:40:03 info: [app] Server started at http://localhost:3000
+2020-06-27 00:40:54 info: [app] Server started at http://localhost:3000
+2020-06-27 00:40:59 info: [app] Server started at http://localhost:3000
+2020-06-27 00:41:38 info: [app] Server started at http://localhost:3000
+2020-06-27 00:42:10 info: [app] Server started at http://localhost:3000
+2020-06-27 00:42:42 info: [app] Server started at http://localhost:3000
+2020-06-27 00:43:04 info: [app] Server started at http://localhost:3000
+2020-06-27 00:43:07 info: [app] Server started at http://localhost:3000
+2020-06-27 00:45:52 info: [app] Server started at http://localhost:3000
+2020-06-27 00:46:28 info: [app] Server started at http://localhost:3000
+2020-06-27 00:46:34 info: [app] Server started at http://localhost:3000
+2020-06-27 00:47:14 info: [app] Server started at http://localhost:3000
+2020-06-27 00:47:47 info: [app] Server started at http://localhost:3000
+2020-06-27 00:48:48 info: [app] Server started at http://localhost:3000
+2020-06-27 00:49:02 info: [app] Server started at http://localhost:3000
+2020-06-27 00:50:35 info: [app] Server started at http://localhost:3000
+2020-06-27 00:51:07 info: [app] Server started at http://localhost:3000
+2020-06-27 00:51:59 info: [app] Server started at http://localhost:3000
+2020-06-27 00:52:46 info: [app] Server started at http://localhost:3000
+2020-06-27 00:53:14 info: [app] Server started at http://localhost:3000
+2020-06-27 00:54:23 info: [app] Server started at http://localhost:3000
+2020-06-27 00:54:28 info: [app] Server started at http://localhost:3000
+2020-06-27 01:00:37 info: [app] Server started at http://localhost:3000
+2020-06-27 01:02:01 info: [app] Server started at http://localhost:3000
+2020-06-27 01:03:04 info: [app] Server started at http://localhost:3000
+2020-06-27 01:03:12 info: [app] Server started at http://localhost:3000
+2020-06-27 01:03:54 info: [app] Server started at http://localhost:3000
+2020-06-27 01:05:00 info: [app] Server started at http://localhost:3000
+2020-06-27 01:06:00 info: [app] Server started at http://localhost:3000
+2020-06-27 01:07:02 info: [app] Server started at http://localhost:3000
+2020-06-27 01:14:18 info: [app] Server started at http://localhost:3000
+2020-06-27 01:14:38 info: [app] Server started at http://localhost:3000
